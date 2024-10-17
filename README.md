@@ -1,3 +1,3 @@
-# My Blog
+# Sangchul's Blog
 
-Welcome!
+Welcome! This is the publishing source for my personal blog, for writing about AI, math, and life.
