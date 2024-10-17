@@ -1,0 +1,14 @@
+---
+layout: post
+title: Math Test
+date:   2024-10-18 00:10:51 +0900
+categories: math
+---
+
+Let me test math!
+
+The function $f(x) = x^2$ is continuous!
+
+$$ \int_{a}^{b} f(x) \, \mathrm{d}x = \left[ \frac{x^3}{3} \right]_{x=a}^{x=b} = \frac{b^3 - a^3}{3}. $$
+
+Does it work?
