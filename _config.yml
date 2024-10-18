@@ -21,7 +21,7 @@
 title: Sangchul's Blog
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal blog! I'm an AI researcher and ex-mathematician. I write about AI, math, and life.
+  Welcome to my personal blog! I'm an AI researcher from math background. I write about AI, math, and life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
